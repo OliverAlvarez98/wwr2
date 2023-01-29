@@ -1,0 +1,108 @@
+h5 {
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+main {
+    text-align: center;
+    
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: rgba(rgb(34, 50, 92), rgb(182, 30, 196), rgb(150, 44, 123), alpha);
+}
+
+
+nav a:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+
+.home-tittle {
+    background-color: rgb(5, 5, 82);
+}
+
+
+.book:hover, .join:hover {
+    background-color: rgb(49, 7, 128);
+}
+
+.msg h2 {
+    background-color: rgb(36, 172, 9);
+}
+
+.msg p {
+    background-color: rgb(94, 180, 99);
+}
+
+footer {
+    background-color: rgb(11, 53, 16);
+}
+
+footer a {
+    background-color: rgb(12, 83, 44);
+}
+
+footer a:hover {
+    background-color: rgb(10, 156, 71);
+}
+
+
+.icon {
+    width: 80px;
+}
+
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+         
+.book, .join {
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+footer a { 
+    text-align: center;
+    color: beige;
+    text-decoration: none;
+}
+
+footer p {
+    font-size: 1.2em;
+}   
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+
+header {
+    background-color: green;
+}
+
+h6 {
+    text-align: left;
+}
